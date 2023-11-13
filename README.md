@@ -40,7 +40,11 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iqlipx&show_icons=true&locale=en&layout=compact" alt="iqlipx" /></p>
 
-<img src="image.png" alt="QR Code" width="300" height="300">
+<div style="display: flex; justify-content: space-around;">
+    <img src="image.png" alt="QR Code 1" width="300" height="300">
+    <img src="image(1).png" alt="QR Code 2" width="300" height="300">
+</div>
+
 
 
 
