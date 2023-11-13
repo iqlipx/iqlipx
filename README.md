@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <div style="display: flex; justify-content: space-around;">
     <img src="image.png" alt="QR Code 1" width="300" height="300">
-    <img src="image(1).png" alt="QR Code 2" width="300" height="300">
+    <img src="check.png" alt="QR Code 2" width="300" height="300">
 </div>
 
 
