@@ -23,11 +23,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/iqlip7" target="blank"><img src="https://img.shields.io/twitter/follow/iqlip7?logo=twitter&style=for-the-badge" alt="iqlip7" /></a> </p>
 
-- 💬 Ask me about **Python , Web and CTFs**
+- 💬 Ask me about **Linux , Web , CTFs and Networking**
 
-- 📫 How to reach me **demohtb07@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
+- 📫 How to reach me **https://iqlipx.github.io/Linktree**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
