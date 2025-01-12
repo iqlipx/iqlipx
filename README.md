@@ -23,7 +23,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iqlipx&radius=16&theme=react&area=false&order=5&custom_title=GitHub%20Stats&hide_border=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iqlipx&radius=16&theme=react&area=false&order=5&custom_title=Contribution%20Graph&hide_border=false" height="300" alt="activity-graph graph"  />
 </div>
 
 
