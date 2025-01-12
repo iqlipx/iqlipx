@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm good at OSINT, creating security tools, and exploring penetration testing. I've also created some tools to enhance security practices.</p>
+<p align="left">I'm good at OSINT, enjoy building tools, exploring penetration testing, and finding creative ways to enhance security.</p>
 
 ###
 
