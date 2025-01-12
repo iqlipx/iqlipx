@@ -16,7 +16,7 @@
 <br>
 
 <p align='center'>
-<a href="https://iqlip.vercel.app/" target="_blank"><img height="60" src="/media/server1-shadow.png"></a>&nbsp;&nbsp;
+<a href="https://iqlip.vercel.app/" target="_blank"><img height="40" src="/media/server1-shadow.png"></a>&nbsp;&nbsp;
 
 <br>
 
