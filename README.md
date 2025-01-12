@@ -2,7 +2,7 @@
     <img align="right" height="210vh" src="/media/1337.gif">
 </div>
 
-<h3 align="left">Whoami</h3>
+<h3 align="left">Who am I?</h3>
 
 ###
 
