@@ -16,7 +16,7 @@
 <br>
 
 <p align='center'>
-<a href="https://iqlip.vercel.app/" target="_blank"><img height="40" src="/media/server1-shadow.png"></a>&nbsp;&nbsp;
+<a href="https://accounts.google.com/Logout?continue=https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img height="40" src="/media/server1-shadow.png"></a>&nbsp;&nbsp;
 
 <br>
 
