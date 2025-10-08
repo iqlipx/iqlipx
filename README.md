@@ -16,7 +16,7 @@
 <br>
 
 <p align='center'>
-<a href="https://accounts.google.com/Logout?continue=https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img height="40" src="/media/server1-shadow.png"></a>&nbsp;&nbsp;
+<a href="http://bit.ly/3KEGoBG" target="_blank"><img height="40" src="/media/server1-shadow.png"></a>&nbsp;&nbsp;
 
 <br>
 
@@ -79,4 +79,6 @@
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
 </div>
 
-###
+---
+
+### Resources : [my collection](http://bit.ly/3KEGoBG)
