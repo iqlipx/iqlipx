@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">Hey there! 👋 I'm Iqlip, a passionate cybersecurity enthusiast with a focus on offensive security, red teaming, and OSINT.</p>
+<p align="left">Hey there! 👋 I'm Iqlip, I work in the offensive corner of cybersecurity.</p>
 
 ###
 
-<p align="left">I'm good at OSINT, enjoy building tools, exploring penetration testing, and finding creative ways to enhance security.</p>
+<p align="left">Most of my time goes into OSINT, Red Team tradecraft, and building tools that make recon and exploitation faster, quieter, and more repeatable</p>
 
 ###
 <br>
